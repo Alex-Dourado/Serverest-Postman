@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "5261f124-afbd-4448-bb09-70b2241920e5",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49840320",
+		"_collection_link": "https://camisadance90-1722513.postman.co/workspace/Ale's-Workspace~d5a8e7e4-94dd-4a16-888c-b5c62ed15b49/collection/49840320-5261f124-afbd-4448-bb09-70b2241920e5?action=share&source=collection_link&creator=49840320"
+	},
+	"item": [
+		{
+			"name": "testeum",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
